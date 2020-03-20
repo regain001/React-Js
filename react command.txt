@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/42621547/jackson-error-illegal-character-only-regular-white-space-allowed-when-parsi
+
+
+1. To create react platform by node package manager
+	npm i -g create-react-app@1.5.2
+
+2. create app -
+	create-react-app appName
+
+3. run -
+	npm start
+
+4. install bootstarp -
+	npm i bootstrap@4.1.1
+
