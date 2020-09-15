@@ -13,3 +13,11 @@ https://stackoverflow.com/questions/42621547/jackson-error-illegal-character-onl
 4. install bootstarp -
 	npm i bootstrap@4.1.1
 
+5. Create page router (How to navigate one page to another) -
+	npm i create-router-dom
+
+6. for making request (http)- 
+	npm i axios
+
+7. for deployment -
+	npm run build
