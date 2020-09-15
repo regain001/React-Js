@@ -45,7 +45,7 @@ export class AddTodo extends Component {
 }
 
 //PropTypes :: used to validate the properties required or not
-TodoItem.propType = {
+AddTodo.propType = {
     addTodo: PropTypes.func.isRequired
 }
 
